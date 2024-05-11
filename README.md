@@ -10,8 +10,11 @@ Global Wire is an Android news application which is developed in Java and has ma
 6. Support of multimedia elements
 7. In-app detailed news browsing
 
-![image](https://github.com/Prerna0901/Global-Wire/assets/127655146/a448cfd1-dfd0-4b97-a3ab-42d51d50d4ac)
+
+
+![Picture1](https://github.com/Prerna0901/Global-Wire/assets/127655146/f520a251-0f61-45ef-951c-3e1d4035e47d)
 Sign Up Page
 
-![image](https://github.com/Prerna0901/Global-Wire/assets/127655146/cb8a790a-5083-4ed5-a0c3-cc32a5eb44e9)
+
+![Picture2](https://github.com/Prerna0901/Global-Wire/assets/127655146/22aef092-e118-4261-ab34-b25768aeaa5e)
 Homepage
